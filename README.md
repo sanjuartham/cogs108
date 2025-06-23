@@ -83,7 +83,7 @@ What patient-experience aspects and operational performance metrics are most str
 ## Course Info
 **COGS108: Data Science in Practice**  
 UC San Diego – Spring 2024  
-Instructor: [Course staff]
+Instructor: Jason Fleischer
 
 ---
 
